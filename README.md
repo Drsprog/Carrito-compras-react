@@ -26,7 +26,7 @@ Una aplicación de carrito de compras básica construida con **React**. Permite 
 ## 📦 Instalación
 
 ```bash
-git clone https://github.com/tu-usuario/carrito-react.git
+git clone [https://github.com/Drsprog/Carrito-compras-react]
 cd carrito-react
 npm install
 npm start
